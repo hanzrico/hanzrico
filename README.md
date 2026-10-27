@@ -11,6 +11,6 @@ Fav games: Arknights, Project Moon games <p>
 Steam: https://steamcommunity.com/profiles/76561199887025087/ <p>
 Discord: hanze_lnut <p>
 
-<a href="https://steamcommunity.com/id/76561199887025087">
+<a href="https://steamcommunity.com/id/76561199887025087/">
   <img src="https://cdn.simpleicons.org/steam/FFFFFF" height="40" />
 </a>
