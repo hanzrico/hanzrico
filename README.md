@@ -1,4 +1,4 @@
-# RHZ.md
+# Yo, good to see ya!
 This is my CV, you can say it like that. Hope you like it
 
 Name: Rio <p>
@@ -10,3 +10,7 @@ Fav music: Saikai by Mili <p>
 Fav games: Arknights, Project Moon games <p>
 Steam: https://steamcommunity.com/profiles/76561199887025087/ <p>
 Discord: hanze_lnut <p>
+
+<a href="https://steamcommunity.com/id/Hanzze_Rico">
+  <img src="https://cdn.simpleicons.org/steam/FFFFFF" height="40" />
+</a>
